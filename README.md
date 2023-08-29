@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**thejhp1/thejhp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/thejhp1/thejhp1/assets/124937654/b837c5e2-aa3d-4a84-86ff-b0997a546a83" />
+</p>
+<h1 align="center">
+ 🖥 Hello There, I'm JP! 👨‍💻
+</h1> 
+<h3 align="center">
+  Full-Stack Software Developer 
+</h3>
+<p>
+  Check out my <a href="thejhp.onrender.com">profile site</a>
+</p>

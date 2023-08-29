@@ -7,7 +7,7 @@
 <h3 align="center">
   Full-Stack Software Developer 
 </h3>
-<p>Interested in seeing some of my work? Checkout my  <a href="https://thejhp.onrender.com/">portfolio site</a> !</p> 
+<p>Interested in seeing some of my work? Checkout my <a href="https://thejhp.onrender.com/">portfolio site</a>!</p> 
 
 
 

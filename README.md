@@ -8,5 +8,5 @@
   Full-Stack Software Developer 
 </h3>
 <p>
-  Check out my <a href="thejhp.onrender.com">profile site</a>
+  Check out my <a href="https://thejhp.onrender.com">profile site</a>
 </p>
